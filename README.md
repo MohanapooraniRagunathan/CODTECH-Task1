@@ -8,6 +8,9 @@ Mentor: NEELA SANTHOSH KUMAR
 Overview of the project
 
 Project:SIMPLE RESTFUL API
+![image](https://github.com/user-attachments/assets/68fea9a9-739f-454b-b827-5efaacc98d89)
+
+
 
 OBJECTIVE:
 The objective of this project is to create a simple RESTful API for managing user data. The API allows users to perform CRUD (Create, Read, Update, Delete) operations on user records. This project provides hands-on experience in building and managing APIs using Express.js, and it demonstrates the principles of RESTful architecture.
@@ -51,6 +54,8 @@ TECHNOLOGIES USED:
    >Postman or curl for testing the API
    >Code editor (e.g., Visual Studio Code)
    >Node.js environment for running the server
+
+
 
 
 
