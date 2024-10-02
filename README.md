@@ -6,6 +6,7 @@ Duration: September to October 2024
 Mentor: NEELA SANTHOSH KUMAR
 
 Overview of the project
+
 Project:SIMPLE RESTFUL API
 
 OBJECTIVE:
